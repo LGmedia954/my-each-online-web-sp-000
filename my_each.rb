@@ -1,3 +1,4 @@
 def my_each(array)
-  # code here
+  while 
+  puts 
 end
